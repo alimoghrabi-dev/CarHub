@@ -21,6 +21,7 @@ const Hero = () => {
           title="Explors Cars"
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
           handleClick={handleScroll}
+          rightIcon={""}
         />
       </div>
       <div className="hero__image-container">
